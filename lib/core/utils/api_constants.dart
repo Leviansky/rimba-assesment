@@ -1,5 +1,6 @@
 class ApiConstants {
   static const String baseUrl = 'https://opposite-striped-makemake.glitch.me';
+  static const String auth = '/auth';
   static const String login = '/auth/login';
   static const String register = '/auth/register';
   static const String products = '/product';
